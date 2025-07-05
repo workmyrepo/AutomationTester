@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinu</h1>
-<h3 align="center">I love building utilities aimed at increasing Tester Productivity and Proficient Results!🙌</h3>
+<h3 align="center">I love building utilities aimed at increasing Testing Productivity and Proficient outcomes!🙌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workmyrepo&label=Profile%20views&color=0e75b6&style=flat" alt="workmyrepo" /> </p>
 
